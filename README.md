@@ -1,21 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Akira-Motoyoshi/Akira-Motoyoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ## 📝 Internship Candidate Information
 
 ### 👤 Name and Location
 - **Name**: 本吉 顕 (Akira Motoyoshi)  
-- **Location**: *(Not specified)*
+- **Location**: Tokyo,Japan
 
 ### 📄 Resume
-- No resume provided.
+- * in progress
 
 ### 💡 Skills and OSM Involvement
 - **Skills**: None  
-- **OSM Involvement**: None
+- **OSM Involvement**: - Participated in a HOT (Humanitarian OpenStreetMap Team) project to map farmland on Yoronjima Island, Japan. Contributed to agricultural land digitization using satellite imagery and OSM tools.
+
 
 ### 🧠 Analysis / Reporting / Technical Skills
 - **Analytical Skills**: No  
@@ -33,5 +30,3 @@
 
 ### 💰 Proposed Monthly Stipend
 - **Stipend**: 200–300 EUR/month
----->
-
