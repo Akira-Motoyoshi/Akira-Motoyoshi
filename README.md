@@ -7,7 +7,7 @@
 - **Location**: Tokyo,Japan
 
 ### 📄 Resume
-- * in progress
+- in progress
 
 ### 💡 Skills and OSM Involvement
 - **Skills**: None  
