@@ -33,4 +33,5 @@
 
 ### 💰 Proposed Monthly Stipend
 - **Stipend**: 200–300 EUR/month
+---->
 
