@@ -9,7 +9,7 @@ https://github-readme-stats.vercel.app/api?username=Akira-Motoyoshi&show_icons=t
 
 ## Skills and OSM Involvement
 ### Skills
-- Proficient in Microsoft 365 (Word, Excel, PowerPoint)  
+- Experienced with Microsoft 365 (Word, Excel, PowerPoint)  
 - Experienced with macOS  
 - Experienced with Windows OS  
 - Basic knowledge of GitHub  
