@@ -26,8 +26,6 @@ https://www.openstreetmap.org/user/Revs%20your%20heart
 **HOT Tasking Manager**
 https://tasks.hotosm.org/users/Revs%20your%20heart
 
-**HDYC (How Did You Contribute?)**
-https://hdyc.neis-one.org/?Revs%20your%20heart
 
 ## Analysis / Reporting / Technical Skills
 **Analytical Skills**:
