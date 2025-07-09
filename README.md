@@ -7,10 +7,11 @@
 - **Location**: Tokyo,Japan
 
 ### 📄 Resume
-- in progress
+- https://docs.google.com/document/d/1cXoBosztKb3o6JWq3nH8ma-6j4TIXSwE/edit?usp=drivesdk&ouid=116995004467562008310&rtpof=true&sd=true
 
 ### 💡 Skills and OSM Involvement
-- **Skills**: None  
+- **Skills**: 	
+
 - **OSM Involvement**: - Participated in a HOT (Humanitarian OpenStreetMap Team) project to map farmland on Yoronjima Island, Japan. Contributed to agricultural land digitization using satellite imagery and OSM tools.
 
 
