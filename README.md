@@ -21,7 +21,7 @@
 ## Mapping Profiles
 
 **HOT Tasking Manager**  
-[https://tasks.hotosm.org/users/カメレオン本吉](https://tasks.hotosm.org/users/%E3%82%AB%E3%83%A1%E3%83%AC%E3%82%AA%E3%83%B3%E6%9C%AC%E5%90%89)
+https://tasks.hotosm.org/users/Revs%20your%20heart
 
 **OpenStreetMap (OSM)**  
 https://www.openstreetmap.org/user/Revs%20your%20heart
