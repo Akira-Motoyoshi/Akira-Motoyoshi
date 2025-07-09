@@ -1,7 +1,6 @@
-[![GitHub stats]
-(https://github-readme-stats.vercel.app/api?username=Akira-Motoyoshi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
 
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akira-Motoyoshi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Name and Location
 **Name**: 本吉 顕 (Akira Motoyoshi)  
