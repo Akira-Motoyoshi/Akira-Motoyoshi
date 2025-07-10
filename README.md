@@ -21,10 +21,10 @@
 ## Mapping Profiles
 
 **OpenStreetMap (OSM)**
-https://www.openstreetmap.org/user/Revs%20your%20heart
+https://www.openstreetmap.org/user/RevsYourHeart
 
 **HOT Tasking Manager**
-https://tasks.hotosm.org/users/Revs%20your%20heart
+https://tasks.hotosm.org/users/RevsYourHeart
 
 
 ## Analysis / Reporting / Technical Skills
