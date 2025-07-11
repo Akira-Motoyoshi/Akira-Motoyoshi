@@ -18,6 +18,7 @@
 
 ### OSM Involvement
 - Participated in a HOT (Humanitarian OpenStreetMap Team) project to map farmland on Yoronjima Island, Japan  
+- Participated  in a HOT (Humanitarian OpenStreetMap Team)project to map agricultural waterways in southern Mauritania
 ## Mapping Profiles
 
 **OpenStreetMap (OSM)**
