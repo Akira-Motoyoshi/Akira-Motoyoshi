@@ -27,6 +27,9 @@ https://www.openstreetmap.org/user/RevsYourHeart
 **HOT Tasking Manager**
 https://tasks.hotosm.org/users/RevsYourHeart
 
+**Linkedin**
+www.linkedin.com/in/akira-motoyoshi-3b6867373
+
 
 ## Analysis / Reporting / Technical Skills
 **Analytical Skills**:
